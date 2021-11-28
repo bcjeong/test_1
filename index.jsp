@@ -9,7 +9,7 @@
 <body>
 Simple Web
 I can change this file.
-Is it fine?
+Commit
 	<form action="./userJoinAction.jsp"method="post">
 		 <input type="text" name="userID">
 		 <input type="password" name="userPassword">
